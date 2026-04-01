@@ -6,8 +6,11 @@ Gemini CLI는 Node.js 위에서 동작합니다. 먼저 Node.js를 설치해야 
 
 ### 1단계: Node.js 다운로드 및 설치
 
-1. 브라우저에서 **https://nodejs.org** 접속
-2. **"LTS" (Long Term Support)** 버전 다운로드 (v20 이상 권장)
+1. 브라우저에서 **https://nodejs.org/ko/download** 접속
+2. 페이지 **하단 드롭다운**에서 아래와 같이 설정
+   - 아키텍처: **x64**
+   - OS: **Windows**
+   - 항목: **Windows 설치 프로그램 (.msi)**
 3. 다운로드된 `.msi` 파일 실행 → 기본 설정 그대로 **Next** 클릭하며 설치 완료
 
 ### 2단계: 설치 확인
